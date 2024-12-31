@@ -7,7 +7,7 @@ Welcome to the official repository for **Ben**, your intelligent assistant desig
 - And much more!  
 
 ## 🚀 Try Ben in Action  
-Explore the testing playground: [https://tuscanyai.it/it/](https://tuscanyai.it/it/)
+Explore the testing playground: [https://tuscanyai.it/it/](https://tuscanyai.it/)
 
 ---
 
