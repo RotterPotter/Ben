@@ -1,0 +1,40 @@
+{
+  "name": "da97a25a-789d-480c-9959-f33f59419343",
+  "displayName": "Something_Else?",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Va bene, posso aiutarti con qualcos'altro?" ]
+      },
+      "languageCode": "it"
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "User_Sattisfied",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Dimmi!" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "targetPage": "Start Page",
+    "name": "63d389f9-9fc8-4362-af25-d93bb3e2ff57"
+  }, {
+    "intent": "User_Not_Sattisfied",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Grazie, arrividerci!" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "targetPage": "End Session",
+    "name": "793850ce-b0d2-4581-a491-7466d3f090d7"
+  } ]
+}

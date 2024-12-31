@@ -1,0 +1,39 @@
+{
+  "name": "04989753-1775-4768-b1d7-7fd748928aac",
+  "displayName": "AS.ad_bn",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "Voglio fare appuntamento per domani con Luca"
+        },
+        "languageCode": "it"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "Appointment_Scheduling_Intent"
+      },
+      "currentPage": {
+        "name": "Check_Slot_Availability",
+        "flow": "Default Start Flow"
+      },
+      "textResponses": [ {
+        "text": [ "Luca è disponibile domani alle 09:00. Va bene per te?" ]
+      } ],
+      "currentFlow": {
+        "name": "Default Start Flow"
+      }
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1735231901,
+    "nanos": 727335000
+  },
+  "testConfig": {
+    "flow": "Default Start Flow",
+    "page": "Start Page"
+  },
+  "languageCode": "it"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "af1fa322-04f0-44f0-afa7-7de9627a9070",
+  "displayName": "Availability_Information",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "/api/availability",
+    "tag": "fffff"
+  }
+}

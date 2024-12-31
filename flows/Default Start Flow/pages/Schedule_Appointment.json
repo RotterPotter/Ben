@@ -1,0 +1,17 @@
+{
+  "name": "b9e44f56-e46e-4458-bb47-bb5a336de3b9",
+  "displayName": "Schedule_Appointment",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Grazie mille, arrivederci!" ]
+      },
+      "languageCode": "it"
+    } ],
+    "webhook": "/api/appointments/webhook/schedule/",
+    "tag": "fffff"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "96ac6bc5-26ae-43fe-93f1-e30e8ecdca22",
+  "displayName": "/api/availability",
+  "genericWebService": {
+    "uri": "https://tuscanyai.it/api/availability/",
+    "webhookType": "STANDARD",
+    "serviceAgentAuth": "NONE"
+  },
+  "timeout": {
+    "seconds": 10
+  }
+}

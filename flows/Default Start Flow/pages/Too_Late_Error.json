@@ -1,0 +1,37 @@
+{
+  "name": "28226e0d-4891-484e-93b5-aa1983efaf71",
+  "displayName": "Too_Late_Error",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Il nostro barbershop è aperto dalle 9 di mattina alle 8 di sera, scegli un altro orario." ]
+      },
+      "languageCode": "it"
+    } ],
+    "setParameterActions": [ {
+      "parameter": "$session.params.error",
+      "value": null
+    }, {
+      "parameter": "$session.params.available",
+      "value": null
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "Too_Late_Error",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Check_Slot_Availability",
+    "name": "3bca5025-0c27-4d04-ae62-f12e5ecad71e"
+  }, {
+    "intent": "Appointment_Scheduling_Intent",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Appointment_Taking",
+    "name": "762e55dc-2845-466d-b627-cf093a2441d8"
+  } ]
+}

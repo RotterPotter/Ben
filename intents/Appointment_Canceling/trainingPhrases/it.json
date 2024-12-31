@@ -1,0 +1,655 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Voglio cancelare appuntamento",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non posso più venire "
+    }, {
+      "text": "sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "dieci",
+      "parameterId": "appointment_time"
+    }, {
+      "text": ", era con "
+    }, {
+      "text": "Giovanni",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi togliere la prenotazione che ho fatto per "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "quattro",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Simone",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Devo cancellare l’appuntamento di "
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "sei di sera",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Chiedo di annullare la prenotazione fissata per "
+    }, {
+      "text": "lunedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "11:30",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Marco",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei cancellare il mio appuntamento di "
+    }, {
+      "text": "venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "17:45",
+      "parameterId": "appointment_time"
+    }, {
+      "text": ", era con "
+    }, {
+      "text": "Andrea",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi scuso, ma vorrei annullare l’appuntamento di "
+    }, {
+      "text": "domenica",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "15",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Giovanni",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Devo ritirare la prenotazione che avevo fatto per "
+    }, {
+      "text": "giovedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "14",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Simone",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potete per cortesia annullare l’appuntamento che ho fissato per "
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "9:30",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Paolo",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non potrò presentarmi "
+    }, {
+      "text": "sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "12",
+      "parameterId": "appointment_time"
+    }, {
+      "text": ", l’appuntamento era con "
+    }, {
+      "text": "Davide",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei disdire la mia prenotazione per "
+    }, {
+      "text": "venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "10:30",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Marco",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Desidero cancellare l’appuntamento fissato per "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "18",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non serve più l’appuntamento che ho fatto per "
+    }, {
+      "text": "domenica",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "14",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Andrea",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Annulla la prenotazione per "
+    }, {
+      "text": "venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "11",
+      "parameterId": "appointment_time"
+    }, {
+      "text": ", grazie."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non riesco a venire "
+    }, {
+      "text": "giovedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "16",
+      "parameterId": "appointment_time"
+    }, {
+      "text": ", era con "
+    }, {
+      "text": "Simone",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Devo disdire la prenotazione "
+    }, {
+      "text": "di martedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "9 ",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "con "
+    }, {
+      "text": "Giovanni",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi cancellare il mio appuntamento di "
+    }, {
+      "text": "oggi",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " pomeriggio alle "
+    }, {
+      "text": "17",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Paolo",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non voglio più venire "
+    }, {
+      "text": "sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time"
+    }, {
+      "text": ", era con "
+    }, {
+      "text": "Davide",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Annulla l’appuntamento che ho fissato per "
+    }, {
+      "text": "venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "15",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Marco",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Voglio cancellare il mio appuntamento di "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle "
+    }, {
+      "text": "6 ",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "con "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei togliere la prenotazione.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non posso venire più, puoi cancellare?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Devo lasciare libero l’appuntamento di "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Chiedo di annullare il mio appuntamento.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei ritirare la mia prenotazione per ",
+      "auto": true
+    }, {
+      "text": "il barbiere",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potrei annullare l’appuntamento per "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date"
+    }, {
+      "text": ", per cortesia?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non potrò presentarmi, vorrei cancellare la prenotazione.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Per favore, annullate il mio appuntamento.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi scuso, ma non potrò venire. Potete annullare l’appuntamento?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei disdire la mia prenotazione.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Desidererei cancellare l’appuntamento per ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "auto": true
+    }, {
+      "text": ", grazie.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non riesco a venire, annulla tutto.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non mi serve più l’appuntamento.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi annullare il mio appuntamento ",
+      "auto": true
+    }, {
+      "text": "di domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Devo disdire l’appuntamento.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non posso più venire, cancella la prenotazione.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Annulla"
+    }, {
+      "text": " il mio appuntamento, per favore.",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non voglio venire più.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei cancellare il mio appuntamento per "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 2,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Devo spostare l'appuntamento, puoi cancellarlo ",
+      "auto": true
+    }, {
+      "text": "per ora"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non riesco a venire, annulla l'appuntamento.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Per favore, cancella la mia prenotazione.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Voglio disdire l'appuntamento di "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non posso più venire, annulliamo l'appuntamento.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi dispiace, ma devo cancellare l'appuntamento.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Devo annullare il mio appuntamento.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non voglio più venire.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

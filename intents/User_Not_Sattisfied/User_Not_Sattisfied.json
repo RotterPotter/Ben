@@ -1,0 +1,7 @@
+{
+  "name": "692fe87a-ce91-481d-aa66-6cebd766c0cc",
+  "displayName": "User_Not_Sattisfied",
+  "priority": 500000,
+  "description": "Intent is triggered when use do not agree with something.\n\"No\", \"I don't like it\", \"Not for me\", ",
+  "numTrainingPhrases": 20
+}

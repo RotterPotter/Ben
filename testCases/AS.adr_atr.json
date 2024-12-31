@@ -1,0 +1,39 @@
+{
+  "name": "2be1b46d-f665-4581-a3f2-0c134bf7e2cb",
+  "displayName": "AS.adr_atr",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "Voglio fare appuntamento dalle 10 alle 4 per prossima settimana"
+        },
+        "languageCode": "it"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "Appointment_Scheduling_Intent"
+      },
+      "currentPage": {
+        "name": "Check_Slot_Availability",
+        "flow": "Default Start Flow"
+      },
+      "textResponses": [ {
+        "text": [ "C'è un posto disponibile con Alex alle 10:00 a lunedì. Va bene per te?" ]
+      } ],
+      "currentFlow": {
+        "name": "Default Start Flow"
+      }
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1735230990,
+    "nanos": 551445000
+  },
+  "testConfig": {
+    "flow": "Default Start Flow",
+    "page": "Start Page"
+  },
+  "languageCode": "it"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "f57a6331-5eb0-436e-bf79-c70f0e546160",
+  "displayName": "Confirm_All_Info",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Perfetto, $session.params.client_name,  $session.params.appointment_date alle $session.params.appointment_time con $session.params.barber_name, giusto?" ]
+      },
+      "languageCode": "it"
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "User_Sattisfied",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Schedule_Appointment",
+    "name": "24b31f9e-7d5d-4fa2-8caf-5b1063fa72f2"
+  } ]
+}

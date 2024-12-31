@@ -1,0 +1,7 @@
+{
+  "name": "3e646717-171b-4fb1-bd31-5ea3fe1027d6",
+  "displayName": "User_Sattisfied",
+  "priority": 500000,
+  "description": "This intent is triggered when user is sattisfied with whatever.\nLike: \"Yes\", \"Great\", \"Sounds Amazing\"",
+  "numTrainingPhrases": 16
+}

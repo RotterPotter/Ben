@@ -1,0 +1,20 @@
+{
+  "name": "dd9954bb-b624-44ba-89e0-b594e84d7b8e",
+  "displayName": "Take_Params",
+  "parameters": [ {
+    "id": "appointment_time",
+    "entityType": "@sys.time"
+  }, {
+    "id": "appointment_date",
+    "entityType": "@sys.date"
+  }, {
+    "id": "appointment_date_range",
+    "entityType": "@sys.date-period"
+  }, {
+    "id": "appointment_time_range",
+    "entityType": "@sys.time-period"
+  } ],
+  "priority": 500000,
+  "description": "Intent is triggered when user want to take an appointment but didn't mention any parameters. Bot asks \"Quando vuoi venire?\". User should answer \"At10\" or \"On monday at 5\"",
+  "numTrainingPhrases": 42
+}

@@ -1,0 +1,17 @@
+{
+  "name": "3030a30f-6903-450e-b0cd-bb1aff40e4b7",
+  "displayName": "Availability_Information",
+  "parameters": [ {
+    "id": "barber_name",
+    "entityType": "@sys.person"
+  }, {
+    "id": "appointment_date",
+    "entityType": "@sys.date"
+  }, {
+    "id": "appointment_date_range",
+    "entityType": "@sys.date-period"
+  } ],
+  "priority": 500000,
+  "description": "This intent is triggered when client asks availability information, like \"I want to know when barber Luca can take me\"",
+  "numTrainingPhrases": 15
+}

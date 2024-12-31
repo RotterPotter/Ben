@@ -1,0 +1,7 @@
+{
+  "name": "2f8ec68d-d136-4eec-b941-2028f5e9d3dd",
+  "displayName": "Arrive_As_Soon_As_Possible",
+  "priority": 500000,
+  "description": "This intent is triggered when bot asks the question \"When do you wanna come?\" and client says that he want to come right now or as soon as posssible.\n",
+  "numTrainingPhrases": 23
+}

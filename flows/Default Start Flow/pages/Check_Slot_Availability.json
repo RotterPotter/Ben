@@ -1,0 +1,86 @@
+{
+  "name": "fd589f2a-27f2-4f03-9bc8-07b9d955c59e",
+  "displayName": "Check_Slot_Availability",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "/api/availability",
+    "tag": "ff"
+  },
+  "transitionRoutes": [ {
+    "intent": "User_Sattisfied",
+    "condition": "$session.params.available = true",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Ask_Client_Name",
+    "name": "7e5a47f0-b409-4e33-8bf4-ec6e21093841"
+  }, {
+    "intent": "User_Not_Sattisfied",
+    "condition": "$session.params.available = true",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "$session.params.barber_name",
+        "value": null
+      }, {
+        "parameter": "$session.params.appointment_date",
+        "value": null
+      }, {
+        "parameter": "$session.params.appointment_date_range",
+        "value": null
+      }, {
+        "parameter": "$session.params.appointment_time",
+        "value": null
+      }, {
+        "parameter": "$session.params.appointment_time_range",
+        "value": null
+      }, {
+        "parameter": "$session.params.client_name",
+        "value": null
+      }, {
+        "parameter": "$session.params.available",
+        "value": null
+      }, {
+        "parameter": "$session.params.error",
+        "value": null
+      } ]
+    },
+    "targetPage": "Something_Else?",
+    "name": "1e4831c8-26aa-4652-948b-e4bfc828fa1b"
+  }, {
+    "intent": "User_Not_Sattisfied_With_Params",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Appointment_Taking",
+    "name": "3548178f-a4ff-401e-9d5e-2f7071b6497e"
+  }, {
+    "condition": "$session.params.error = too_late_error",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "$session.params.available",
+        "value": null
+      }, {
+        "parameter": "$session.params.error",
+        "value": null
+      } ]
+    },
+    "targetPage": "Too_Late_Error",
+    "name": "63965bc6-98e3-4f42-9b68-a2bdcbb01680"
+  }, {
+    "condition": "$session.params.error = no_available_slots",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Slot_Isn't_Available_Error",
+    "name": "97cedd23-91c2-466e-82e4-ab3325c89fd7"
+  }, {
+    "condition": "$session.params.error = barber_not_found_error",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Barber_Not_Found_Error",
+    "name": "018576fb-2c2a-4950-84ba-5aabd1d69a3c"
+  } ]
+}

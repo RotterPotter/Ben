@@ -1,0 +1,12 @@
+{
+  "name": "fe2df077-6ed9-4cc3-a7a2-9ecb97698100",
+  "displayName": "/api/appointments/webhook/schedule/",
+  "genericWebService": {
+    "uri": "https://tuscanyai.it/api/appointments/webhook/schedule/",
+    "webhookType": "STANDARD",
+    "serviceAgentAuth": "NONE"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "7db57a0f-9259-45ad-aa0c-235175dc75b8",
+  "displayName": "User_Not_Sattisfied_With_Params",
+  "parameters": [ {
+    "id": "appointment_time_range",
+    "entityType": "@sys.time-period"
+  }, {
+    "id": "barber_name",
+    "entityType": "@sys.person"
+  }, {
+    "id": "appointment_date",
+    "entityType": "@sys.date"
+  }, {
+    "id": "appointment_time",
+    "entityType": "@sys.time"
+  } ],
+  "priority": 500000,
+  "description": "Intent is triggered if user do not like provided appointment information and want to change it. Like: \"No, I want Luca as my barber\", \"No, I would like to arrive on tuesday\".\n",
+  "numTrainingPhrases": 20
+}

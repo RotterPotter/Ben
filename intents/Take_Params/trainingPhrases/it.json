@@ -1,0 +1,799 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Vorrei fissare alle ",
+      "auto": true
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": " di ",
+      "auto": true
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Se fosse possibile, alle ",
+      "auto": true
+    }, {
+      "text": "11",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "14",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ", è disponibile?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mercoledì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "10 precise",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Lunedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ", verso le ",
+      "auto": true
+    }, {
+      "text": "16",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Alle ",
+      "auto": true
+    }, {
+      "text": "18",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": " di ",
+      "auto": true
+    }, {
+      "text": "giovedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ", se possibile.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi va bene ",
+      "auto": true
+    }, {
+      "text": "sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "9 di mattina",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Può essere ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "15",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Preferisco ",
+      "auto": true
+    }, {
+      "text": "lunedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "17",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei venire alle ",
+      "auto": true
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Alle ",
+      "auto": true
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": " di ",
+      "auto": true
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dopo pranzo",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ", tipo alle ",
+      "auto": true
+    }, {
+      "text": "2",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Alle ",
+      "auto": true
+    }, {
+      "text": "14",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": " di ",
+      "auto": true
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Tra un’ora",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Stasera alle ",
+      "auto": true
+    }, {
+      "text": "7",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Oggi",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": " verso le ",
+      "auto": true
+    }, {
+      "text": "4",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "3",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Lunedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "5",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Alle ",
+      "auto": true
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Lunedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sera",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "sette",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Alle ",
+      "auto": true
+    }, {
+      "text": "nove e mezza",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mattina presto",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": ", tipo alle "
+    }, {
+      "text": "otto",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Oggi",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "cinque",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ", è possibile?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " verso le ",
+      "auto": true
+    }, {
+      "text": "due del pomeriggio",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": ", va bene?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Penso di venire ",
+      "auto": true
+    }, {
+      "text": "giovedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "nove",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Per me va bene ",
+      "auto": true
+    }, {
+      "text": "mercoledì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Alle ",
+      "auto": true
+    }, {
+      "text": "otto di sera",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Che ne dici ",
+      "auto": true
+    }, {
+      "text": "di domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei ",
+      "auto": true
+    }, {
+      "text": "un",
+      "parameterId": "appointment_date_range",
+      "auto": true
+    }, {
+      "text": " appuntamento ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "14",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Stavo pensando ",
+      "auto": true
+    }, {
+      "text": "a venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "tre",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Martedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Voglio prenotare per ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Posso venire alle ",
+      "auto": true
+    }, {
+      "text": "15:00",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " verso le ",
+      "auto": true
+    }, {
+      "text": "undici",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Lunedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "quattro del pomeriggio",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vengo ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "cinque",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "A che ",
+      "auto": true
+    }, {
+      "text": "ora"
+    }, {
+      "text": "? Alle ",
+      "auto": true
+    }, {
+      "text": "dieci",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Alle ",
+      "auto": true
+    }, {
+      "text": "9",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ", e possibile?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "alle "
+    }, {
+      "text": "10:00",
+      "parameterId": "appointment_time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

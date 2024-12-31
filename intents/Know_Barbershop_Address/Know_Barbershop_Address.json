@@ -1,0 +1,7 @@
+{
+  "name": "8f0a3ef6-e08a-4a92-83e1-1a2edc315b93",
+  "displayName": "Know_Barbershop_Address",
+  "priority": 500000,
+  "description": "Inthent is triggered when user want to know address of barbershop.\n\"WHere your barbershop is located\"",
+  "numTrainingPhrases": 19
+}

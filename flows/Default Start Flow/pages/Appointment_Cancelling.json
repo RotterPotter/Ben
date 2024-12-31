@@ -1,0 +1,60 @@
+{
+  "name": "c6515c1a-9f8c-41b4-8658-9a99d85681f3",
+  "displayName": "Appointment_Cancelling",
+  "form": {
+    "parameters": [ {
+      "displayName": "appointment_date",
+      "required": true,
+      "entityType": "@sys.date",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Puoi farmi sapere la data dell'appuntamento che vuoi cancellare?", "In quale data è l'appuntamento che vuoi annullare?", "Qual è la data dell'appuntamento che desideri cancellare?" ]
+            },
+            "languageCode": "it"
+          } ]
+        }
+      }
+    }, {
+      "displayName": "appointment_time",
+      "required": true,
+      "entityType": "@sys.time",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Could you tell me the time of the appointment you’d like to cancel?", "At what time is the appointment you'd like to cancel?", "What time is the appointment you want to cancel?" ]
+            },
+            "languageCode": "it"
+          } ]
+        }
+      }
+    }, {
+      "displayName": "client_name",
+      "required": true,
+      "entityType": "@sys.person",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Posso avere il tuo nome, per favore?", "Puoi dirmi il tuo nome?", "Qual è il tuo nome, così posso trovare il tuo appuntamento?" ]
+            },
+            "languageCode": "it"
+          } ]
+        }
+      }
+    } ]
+  },
+  "entryFulfillment": {
+  
+  },
+  "transitionRoutes": [ {
+    "condition": "$page.params.status = FINAL",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "FInd_Appointment_To_Cancel",
+    "name": "3f8d1aab-de84-4728-a3a3-8f15b75277e2"
+  } ]
+}

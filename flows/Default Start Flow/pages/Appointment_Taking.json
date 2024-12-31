@@ -1,0 +1,25 @@
+{
+  "name": "cf060132-e7bb-4b01-9376-93de2ec94c34",
+  "displayName": "Appointment_Taking",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+  
+  },
+  "transitionRoutes": [ {
+    "condition": "$session.params.appointment_date != null OR $session.params.appointment_time != null OR $session.params.barber_name != null OR $session.params.appointment_date_range != null OR $session.params.appointment_time_range != null",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Check_Slot_Availability",
+    "name": "094edf22-ed3f-48d1-8cf9-c2a2082ca08b"
+  }, {
+    "condition": "$session.params.appointment_date = null AND $session.params.appointment_time = null AND $session.params.barber_name = null AND $session.params.appointment_date_range = null AND $session.params.appointment_time_range = null",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Take_Params",
+    "name": "6855ec05-cf35-400f-8d51-b26dbade8687"
+  } ]
+}

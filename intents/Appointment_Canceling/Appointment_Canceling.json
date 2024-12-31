@@ -1,0 +1,17 @@
+{
+  "name": "91add352-216f-4390-9493-1bc941aff044",
+  "displayName": "Appointment_Canceling",
+  "parameters": [ {
+    "id": "appointment_date",
+    "entityType": "@sys.date"
+  }, {
+    "id": "barber_name",
+    "entityType": "@sys.person"
+  }, {
+    "id": "appointment_time",
+    "entityType": "@sys.time"
+  } ],
+  "priority": 500000,
+  "description": "Intent is triggered when user wants to cancel an appointment that he made befor. Like:\n\"I would like to cancel my appointment for tommorow\"\n\"I do not want to come anymore\"",
+  "numTrainingPhrases": 47
+}

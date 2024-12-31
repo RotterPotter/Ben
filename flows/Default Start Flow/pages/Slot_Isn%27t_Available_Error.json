@@ -1,0 +1,40 @@
+{
+  "name": "c000e00a-42bc-4038-8a0d-dab6bb1eb190",
+  "displayName": "Slot_Isn't_Available_Error",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Purtroppo tutti sono occupati in quell'orario. Vuoi sapere quando c'è disponibilità?" ]
+      },
+      "languageCode": "it"
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "User_Sattisfied",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "$session.params.appointment_time",
+        "value": null
+      } ]
+    },
+    "targetPage": "Check_Slot_Availability",
+    "name": "19450456-587a-482f-9362-a16c365558ea"
+  }, {
+    "intent": "User_Not_Sattisfied",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Something_Else?",
+    "name": "032e5ba4-a4ad-4813-8b1a-81b92e7e886c"
+  }, {
+    "intent": "User_Not_Sattisfied_With_Params",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Appointment_Taking",
+    "name": "293ebbc3-d7ae-4db5-8a03-7f3395fb15a0"
+  } ]
+}

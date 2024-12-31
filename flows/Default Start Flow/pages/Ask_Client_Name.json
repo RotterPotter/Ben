@@ -1,0 +1,32 @@
+{
+  "name": "556d95d4-8282-4864-ab84-0e8f2284714e",
+  "displayName": "Ask_Client_Name",
+  "form": {
+    "parameters": [ {
+      "displayName": "client_name",
+      "required": true,
+      "entityType": "@sys.person",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Per chi devo fissare l'appuntamento?" ]
+            },
+            "languageCode": "it"
+          } ]
+        }
+      }
+    } ]
+  },
+  "entryFulfillment": {
+  
+  },
+  "transitionRoutes": [ {
+    "condition": "$session.params.client_name != null",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Confirm_All_Info",
+    "name": "a9ab2c68-ce08-4a6c-a3a1-976a1ea68ed5"
+  } ]
+}

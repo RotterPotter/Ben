@@ -1,0 +1,31 @@
+{
+  "name": "0f437498-8ca2-49e7-a31b-983a75caea2d",
+  "displayName": "FInd_Appointment_To_Cancel",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "/api/appointments/webhook/find/",
+    "tag": "ffff"
+  },
+  "transitionRoutes": [ {
+    "condition": "$session.params.available = true",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Confirm_Canceling",
+    "name": "adc89dfd-cae8-439e-bd90-962469aaff1b"
+  }, {
+    "condition": "$session.params.available = false",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Mi dispiace, ma non riesco a trovare questo appuntamento. " ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "targetPage": "Something_Else?",
+    "name": "3f8dd2a6-5f20-4504-af9e-8ac2ba89bc98"
+  } ]
+}

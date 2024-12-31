@@ -1,0 +1,71 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Ciao!", "Buongiorno!" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "name": "9fec6721-bf8a-4c91-8ac3-d0b2cec5aaae"
+  }, {
+    "intent": "Appointment_Scheduling_Intent",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Appointment_Taking",
+    "name": "52b13c6b-e079-4749-b785-3cbd5f791440"
+  }, {
+    "intent": "Appointment_Canceling",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Appointment_Cancelling",
+    "name": "f578b673-c7bc-4e60-a3e7-49e2ee7f4dae"
+  }, {
+    "intent": "Availability_Information",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Availability_Information",
+    "name": "57cbe8a4-464b-48a7-9496-4b2587603fac"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Non penso di seguirti. Potresti ripetere?", "Potresti dirlo ancora una volta?", "Potresti essere più specifico?", "Non ho capito bene. Potresti ripetere?", "Non ti ho sentito bene. Puoi ripetere?" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "name": "70d014a5-d03e-442d-a130-8a61104139dd"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Non penso di seguirti. Potresti ripetere?", "Potresti dirlo ancora una volta?", "Potresti essere più specifico?", "Non ho capito bene. Potresti ripetere?", "Non ti ho sentito bene. Puoi ripetere?" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "name": "07cf8492-c195-44e4-abc3-46fa1044b6bd"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001
+  },
+  "nluSettingsList": [ {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "customConfigKey": "10e89553-31bd-4c04-9e4c-c65f90b6916b",
+    "languageCode": "it"
+  } ]
+}

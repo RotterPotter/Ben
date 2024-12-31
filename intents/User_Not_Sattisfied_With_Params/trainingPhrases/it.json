@@ -1,0 +1,222 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "No, a me serve il "
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non mi torna, volevo venire "
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, voglio venire a "
+    }, {
+      "text": "mezzogiorno",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potremmo cambiare il giorno? Preferisco "
+    }, {
+      "text": "sabato",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi dispiace, ma volevo ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " altro orario.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potrei avere un appuntamento con "
+    }, {
+      "text": "Marco",
+      "parameterId": "barber_name"
+    }, {
+      "text": ", per favore?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, vorrei spostare l’appuntamento alle "
+    }, {
+      "text": "15:00",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Preferirei un altro giorno, magari "
+    }, {
+      "text": "giovedì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non va bene questo orario, possiamo cambiarlo?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, desidererei venire "
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": ", se possibile."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi scusi, ma vorrei "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": " come barbiere."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non va bene, prenotami per "
+    }, {
+      "text": "venerdì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, io voglio venire "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, meglio con "
+    }, {
+      "text": "Carlo",
+      "parameterId": "barber_name"
+    }, {
+      "text": ", per favore."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non ci siamo, io volevo ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " altro orario.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, lo voglio alle "
+    }, {
+      "text": "14:00",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non mi va, cambiamo giorno.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, preferisco venire "
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, voglio "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": " come barbiere."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, voglio fare appuntamento alle "
+    }, {
+      "text": "14:00",
+      "parameterId": "appointment_time"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

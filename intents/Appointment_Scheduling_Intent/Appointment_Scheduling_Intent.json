@@ -1,0 +1,29 @@
+{
+  "name": "733eb958-171f-4b64-bae9-edf57832df4b",
+  "displayName": "Appointment_Scheduling_Intent",
+  "parameters": [ {
+    "id": "appointment_date",
+    "entityType": "@sys.date"
+  }, {
+    "id": "appointment_time",
+    "entityType": "@sys.time"
+  }, {
+    "id": "barber_name",
+    "entityType": "@sys.person"
+  }, {
+    "id": "client_name",
+    "entityType": "@sys.person"
+  }, {
+    "id": "appointment_time_range",
+    "entityType": "@sys.time-period"
+  }, {
+    "id": "appointment_date_range",
+    "entityType": "@sys.date-period"
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "description": "Examples:\n\"I would like to take an appointment at 4 PM tomorrow\"\n",
+  "numTrainingPhrases": 77
+}

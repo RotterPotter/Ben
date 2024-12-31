@@ -1,0 +1,11 @@
+{
+  "name": "40e0444e-88d0-4a91-b967-6f3f565d41a6",
+  "displayName": "Too_Late_Error",
+  "parameters": [ {
+    "id": "appointment_time",
+    "entityType": "@sys.time"
+  } ],
+  "priority": 500000,
+  "description": "This intent is created to fetch changed params during the transitio from Too_Late_Error page to Check_Slot_Availability page. At this point client must change appointment_time, because of the error.\nExamples: \"Okay, what about 10:00?\", \"At 8:00\", \"Sign me for 12:00\" .\n\nBefore intent bot says:\n\"Il nostro barbershop è aperto dalle 9 di mattina alle 8 di sera, scegli un altro orario.\"",
+  "numTrainingPhrases": 22
+}

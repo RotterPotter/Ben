@@ -1,0 +1,1550 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Voglio fare appuntamento per "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei prenotare "
+    }, {
+      "text": "un"
+    }, {
+      "text": " taglio "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi serve ",
+      "auto": true
+    }, {
+      "text": "un"
+    }, {
+      "text": " appuntamento il ",
+      "auto": true
+    }, {
+      "text": "15 agosto",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Possiamo fissare per ",
+      "auto": true
+    }, {
+      "text": "venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "sera",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ho"
+    }, {
+      "text": " bisogno ",
+      "auto": true
+    }, {
+      "text": "di un"
+    }, {
+      "text": " taglio ",
+      "auto": true
+    }, {
+      "text": "martedì prossimo",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei fissare ",
+      "auto": true
+    }, {
+      "text": "un"
+    }, {
+      "text": " appuntamento per il ",
+      "auto": true
+    }, {
+      "text": "3 gennaio",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Prenotiamo per ",
+      "auto": true
+    }, {
+      "text": "oggi",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi serve ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " taglio il ",
+      "auto": true
+    }, {
+      "text": "prossimo lunedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Posso venire ",
+      "auto": true
+    }, {
+      "text": "dopodomani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Fissiamo ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " appuntamento per ",
+      "auto": true
+    }, {
+      "text": "sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei prenotare per il ",
+      "auto": true
+    }, {
+      "text": "25 dicembre",
+      "parameterId": "appointment_date",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Voglio fare appuntamento per ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono "
+    }, {
+      "text": "Sasha",
+      "parameterId": "client_name"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao"
+    }, {
+      "text": ", sono libero ",
+      "auto": true
+    }, {
+      "text": "dalle 16 alle 20",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ". C'è posto in questo intervallo?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "C’è posto disponibile nel ",
+      "auto": true
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ", tipo ",
+      "auto": true
+    }, {
+      "text": "tra le 16 e le 19",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Quando è libero ",
+      "auto": true
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tra le 8 e le 11 di mattina",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Posso venire al ",
+      "auto": true
+    }, {
+      "text": "negozio",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "dalle 12 alle 15",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": " per ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " taglio?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " appuntamento ",
+      "auto": true
+    }, {
+      "text": "tra le 14 e le 17",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "questa settimana",
+      "parameterId": "appointment_date_range",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono libero ",
+      "auto": true
+    }, {
+      "text": "tra le 10 e le 13",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ". È possibile ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " appuntamento in quell’orario?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Fai ",
+      "auto": true
+    }, {
+      "text": "una"
+    }, {
+      "text": " prenotazione per me ",
+      "auto": true
+    }, {
+      "text": "dalle 18 alle 21",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": " con ",
+      "auto": true
+    }, {
+      "text": "Matteo",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Posso venire in ",
+      "auto": true
+    }, {
+      "text": "negozio"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tra le 9 e le 12",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ci sono appuntamenti disponibili nel ",
+      "auto": true
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "tra le 13 e le 16",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei passare al ",
+      "auto": true
+    }, {
+      "text": "mattino",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ", tipo ",
+      "auto": true
+    }, {
+      "text": "dalle 8 alle 11",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "C’è ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " orario libero ",
+      "auto": true
+    }, {
+      "text": "tra le 10 e le 14",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei fissare un appuntamento "
+    }, {
+      "text": "dalle 7 alle 10",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": ", grazie."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi puoi prenotare ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " appuntamento ",
+      "auto": true
+    }, {
+      "text": "tra le 6 e le 8 di sera",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Avete disponibilità ",
+      "auto": true
+    }, {
+      "text": "tra le 17 e le 19",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "oggi",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao",
+      "auto": true
+    }, {
+      "text": ", sono libero ",
+      "auto": true
+    }, {
+      "text": "dalle 16 alle 20",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ". C’è posto in questo intervallo?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " taglio ",
+      "auto": true
+    }, {
+      "text": "dalle 11 alle 14",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ", se possibile.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Fai ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " appuntamento ",
+      "auto": true
+    }, {
+      "text": "tra le 8 e le 10 di mattina",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Posso venire al ",
+      "auto": true
+    }, {
+      "text": "negozio",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "dalle 15 alle 18",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi puoi prenotare ",
+      "auto": true
+    }, {
+      "text": "tra le 10 e le 13",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "C’è disponibilità per ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " taglio ",
+      "auto": true
+    }, {
+      "text": "dalle 14 alle 16",
+      "parameterId": "appointment_time_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei fissare un appuntamento "
+    }, {
+      "text": "dalle 9 alle 12",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao"
+    }, {
+      "text": ", ci sono posti per la ",
+      "auto": true
+    }, {
+      "text": "prossima settimana",
+      "parameterId": "appointment_date_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao! Sono ",
+      "auto": true
+    }, {
+      "text": "Olga",
+      "parameterId": "client_name",
+      "auto": true
+    }, {
+      "text": ", ci sono posti alla ",
+      "auto": true
+    }, {
+      "text": "prossima settimana",
+      "parameterId": "appointment_date_range",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei un appuntamento per "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tra le 14 e le 16",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao, mi chiamo "
+    }, {
+      "text": "Paolo",
+      "parameterId": "client_name",
+      "auto": true
+    }, {
+      "text": ". Ci sono posti disponibili per "
+    }, {
+      "text": "il mese prossimo",
+      "parameterId": "appointment_date_range",
+      "auto": true
+    }, {
+      "text": " con "
+    }, {
+      "text": "Andrea",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei fissare un appuntamento per "
+    }, {
+      "text": "sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "C'è un posto libero "
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " "
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Giovanni",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi chiamo "
+    }, {
+      "text": "Maria",
+      "parameterId": "client_name"
+    }, {
+      "text": ". Puoi prenotarmi "
+    }, {
+      "text": "lunedì prossimo",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "11",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " "
+    }, {
+      "text": "del mattino",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Matteo",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei prenotare per il "
+    }, {
+      "text": "25 dicembre",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " a "
+    }, {
+      "text": "mezzogiorno",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono "
+    }, {
+      "text": "Francesco",
+      "parameterId": "client_name",
+      "auto": true
+    }, {
+      "text": ", posso fissare un appuntamento "
+    }, {
+      "text": "venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "C'è disponibilità per ",
+      "auto": true
+    }, {
+      "text": "la settimana prossima",
+      "parameterId": "appointment_date_range",
+      "auto": true
+    }, {
+      "text": " con ",
+      "auto": true
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi segnarmi un appuntamento "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sera",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "20",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Giuseppe",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Voglio fare appuntamento per ",
+      "auto": true
+    }, {
+      "text": "la prossima settimana",
+      "parameterId": "appointment_date_range",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao, mi serve un appuntamento per il "
+    }, {
+      "text": "prossimo sabato",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " "
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei prenotare un appuntamento con "
+    }, {
+      "text": "Matteo",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": " il "
+    }, {
+      "text": "15",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "9",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " "
+    }, {
+      "text": "del mattino",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi chiamo "
+    }, {
+      "text": "Chiara",
+      "parameterId": "client_name",
+      "auto": true
+    }, {
+      "text": ". Puoi fissare un appuntamento "
+    }, {
+      "text": "venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sera",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Andrea",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei un appuntamento per "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "C'è disponibilità "
+    }, {
+      "text": "questa settimana",
+      "parameterId": "appointment_date_range",
+      "auto": true
+    }, {
+      "text": " nel "
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Marco",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono ",
+      "auto": true
+    }, {
+      "text": "Luigi",
+      "parameterId": "client_name",
+      "auto": true
+    }, {
+      "text": ", posso prenotare ",
+      "auto": true
+    }, {
+      "text": "un"
+    }, {
+      "text": " taglio per ",
+      "auto": true
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "16",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei fissare un appuntamento "
+    }, {
+      "text": "il mese prossimo",
+      "parameterId": "appointment_date_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Giovanni",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi chiamo ",
+      "auto": true
+    }, {
+      "text": "Sofia",
+      "parameterId": "client_name",
+      "auto": true
+    }, {
+      "text": ", posso venire il ",
+      "auto": true
+    }, {
+      "text": "10 gennaio",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "14",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "C'è posto disponibile "
+    }, {
+      "text": "sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei prenotare ",
+      "auto": true
+    }, {
+      "text": "un"
+    }, {
+      "text": " appuntamento il ",
+      "auto": true
+    }, {
+      "text": "prossimo venerdì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "18",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao, posso fissare un appuntamento per "
+    }, {
+      "text": "giovedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Mario",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi segnarmi per "
+    }, {
+      "text": "lunedì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " "
+    }, {
+      "text": "tra le 14 e le 16",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Alessio",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei prenotare un appuntamento per il "
+    }, {
+      "text": "tardo pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " di "
+    }, {
+      "text": "questa settimana",
+      "parameterId": "appointment_date_range"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "C'è disponibilità per "
+    }, {
+      "text": "venerdì prossimo",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " "
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Giuseppe",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi chiamo ",
+      "auto": true
+    }, {
+      "text": "Anna",
+      "parameterId": "client_name",
+      "auto": true
+    }, {
+      "text": ", posso fare ",
+      "auto": true
+    }, {
+      "text": "un"
+    }, {
+      "text": " appuntamento per il ",
+      "auto": true
+    }, {
+      "text": "20 dicembre",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " alle ",
+      "auto": true
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei fissare un appuntamento con "
+    }, {
+      "text": "Matteo",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": " il "
+    }, {
+      "text": "3 gennaio",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " nel "
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao, mi chiamo "
+    }, {
+      "text": "Paolo",
+      "parameterId": "client_name",
+      "auto": true
+    }, {
+      "text": ". C'è disponibilità "
+    }, {
+      "text": "sabato",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sera",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono "
+    }, {
+      "text": "Elena",
+      "parameterId": "client_name",
+      "auto": true
+    }, {
+      "text": ", posso venire il "
+    }, {
+      "text": "prossimo mercoledì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "9",
+      "parameterId": "appointment_time",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei prenotare un appuntamento per "
+    }, {
+      "text": "oggi",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ho bisogno di un appuntamento per il "
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " del "
+    }, {
+      "text": "15 dicembre",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti prenotarmi per "
+    }, {
+      "text": "martedì",
+      "parameterId": "appointment_date",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tra le 11 e le 13",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Marco",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono "
+    }, {
+      "text": "Giulia",
+      "parameterId": "client_name"
+    }, {
+      "text": ", mi serve un appuntamento "
+    }, {
+      "text": "questa settimana",
+      "parameterId": "appointment_date_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Francesco",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Posso venire "
+    }, {
+      "text": "sabato prossimo",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "16",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " per un taglio?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei fare un appuntamento al "
+    }, {
+      "text": "mattino presto",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao, puoi prenotarmi un appuntamento "
+    }, {
+      "text": "lunedì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " nel "
+    }, {
+      "text": "tardo pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi chiamo "
+    }, {
+      "text": "Marco",
+      "parameterId": "client_name"
+    }, {
+      "text": ". Vorrei fissare un appuntamento "
+    }, {
+      "text": "oggi",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "15",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Andrea",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ci sono posti disponibili per la "
+    }, {
+      "text": "prossima settimana",
+      "parameterId": "appointment_date_range"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "È possibile fare un appuntamento il "
+    }, {
+      "text": "20 dicembre",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " nel "
+    }, {
+      "text": "pomeriggio",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ciao, voglio fissare un appuntamento "
+    }, {
+      "text": "venerdì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " "
+    }, {
+      "text": "mattina",
+      "parameterId": "appointment_time_range"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Giovanni",
+      "parameterId": "barber_name",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi chiamo "
+    }, {
+      "text": "Luca",
+      "parameterId": "client_name"
+    }, {
+      "text": ", potresti prenotarmi per il "
+    }, {
+      "text": "prossimo martedì",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "14",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei fissare un appuntamento "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " alle "
+    }, {
+      "text": "10",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " con "
+    }, {
+      "text": "Mario",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

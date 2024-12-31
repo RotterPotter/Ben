@@ -1,0 +1,179 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Quando è libero "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": " per prendermi?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "A che ora posso andare da "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Quando c'è "
+    }, {
+      "text": "Matteo",
+      "parameterId": "barber_name"
+    }, {
+      "text": " per un taglio?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei sapere quando il signor "
+    }, {
+      "text": "Alex",
+      "parameterId": "barber_name"
+    }, {
+      "text": " può ricevermi."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potrebbe indicare la disponibilità di "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Gioelle",
+      "parameterId": "barber_name"
+    }, {
+      "text": " è disponibile "
+    }, {
+      "text": "oggi",
+      "parameterId": "appointment_date"
+    }, {
+      "text": " o nei "
+    }, {
+      "text": "prossimi giorni",
+      "parameterId": "appointment_date_range"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Quando sarebbe possibile fissare un appuntamento con "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potrei sapere gli orari disponibili di "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "A che ora posso passare da "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Quando posso trovare "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi dici quando posso venire da "
+    }, {
+      "text": "Matteo",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": " è libero "
+    }, {
+      "text": "domani",
+      "parameterId": "appointment_date"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Che orari ha "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": " per un taglio?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei sapere quando è disponibile "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Quando può prendermi "
+    }, {
+      "text": "Luca",
+      "parameterId": "barber_name"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

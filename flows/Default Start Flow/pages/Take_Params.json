@@ -1,0 +1,45 @@
+{
+  "name": "af4fd25f-e5b0-4661-9c42-a3273fc07577",
+  "displayName": "Take_Params",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Perfetto! Quando vuoi venire?", "Quando ti farebbe comodo venire?", "A che giorno e ora pensavi di passare?", "C'è un giorno o un orario che preferisci per l'appuntamento?" ]
+      },
+      "languageCode": "it"
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "Take_Params",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Appointment_Taking",
+    "name": "49c0b71d-07bc-4aec-9670-f1399b6f6dbf"
+  }, {
+    "intent": "Availability_Information",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "$session.params.appointment_date",
+        "value": null
+      }, {
+        "parameter": "$session.params.appointment_time",
+        "value": null
+      }, {
+        "parameter": "$session.params.barber_name",
+        "value": null
+      }, {
+        "parameter": "$session.params.appointment_time_range",
+        "value": null
+      }, {
+        "parameter": "$session.params.appointment_date_range",
+        "value": null
+      } ]
+    },
+    "targetPage": "Availability_Information",
+    "name": "8468ba8f-d114-46f5-96f9-8e33f66f3e61"
+  } ]
+}

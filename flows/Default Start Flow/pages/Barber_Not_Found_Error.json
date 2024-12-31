@@ -1,0 +1,30 @@
+{
+  "name": "753d08e7-7a8d-42dd-b9a6-46ec694b6fe9",
+  "displayName": "Barber_Not_Found_Error",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Mi dispiace, ma non abbiamo un barbiere chiamato $session.params.barber_name. Prova a sceglierne un altro." ]
+      },
+      "languageCode": "it"
+    } ],
+    "setParameterActions": [ {
+      "parameter": "$session.params.available",
+      "value": null
+    }, {
+      "parameter": "$session.params.error",
+      "value": null
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "Appointment_Scheduling_Intent",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Appointment_Taking",
+    "name": "3cfe195f-4bbe-4a4b-b54b-dd095e16d9af"
+  } ]
+}

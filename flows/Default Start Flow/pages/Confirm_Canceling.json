@@ -1,0 +1,43 @@
+{
+  "name": "30d3fc43-500d-4265-92b9-c1833484064a",
+  "displayName": "Confirm_Canceling",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Vuoi annullare l'appuntamento previsto per $session.params.appointment_date alle $session.params.appointment_time con $session.params.barber_name, giusto?" ]
+      },
+      "languageCode": "it"
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "User_Sattisfied",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "L'appuntamento è stato annullato." ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "targetPage": "Something_Else?",
+    "name": "8649457f-9ebe-4303-b494-a91724f2141a"
+  }, {
+    "intent": "User_Not_Sattisfied",
+    "condition": "$session.params.appointment_date = null OR $session.params.appointment_time = null OR $session.params.barber_name = null",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "FInd_Appointment_To_Cancel",
+    "name": "fbe1067b-ab91-43fd-9e53-709a03246b14"
+  }, {
+    "intent": "User_Not_Sattisfied_With_Params",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "FInd_Appointment_To_Cancel",
+    "name": "b5f253bf-4f26-417c-944e-924936b3c7d5"
+  } ]
+}

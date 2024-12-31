@@ -1,0 +1,262 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Che ne pensi delle "
+    }, {
+      "text": "quattro del pomeriggio",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vengo alle "
+    }, {
+      "text": "nove e un quarto",
+      "parameterId": "appointment_time"
+    }, {
+      "text": ", va bene?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ok, alle "
+    }, {
+      "text": "dieci",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " in punto."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Alle "
+    }, {
+      "text": "16:30",
+      "parameterId": "appointment_time"
+    }, {
+      "text": " sarebbe perfetto, grazie."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Per favore, metta l'appuntamento alle "
+    }, {
+      "text": "18:00",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi può prenotare per le "
+    }, {
+      "text": "9:00",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cosa ne pensa delle "
+    }, {
+      "text": "15:30",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potrebbe andare bene alle "
+    }, {
+      "text": "14:00",
+      "parameterId": "appointment_time"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei cambiare per le "
+    }, {
+      "text": "12:00",
+      "parameterId": "appointment_time"
+    }, {
+      "text": ", grazie."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potrei prenotare alle ",
+      "auto": true
+    }, {
+      "text": "8:30",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Perfetto, posso fissare per ",
+      "auto": true
+    }, {
+      "text": "le 10:00",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Che ne dici delle ",
+      "auto": true
+    }, {
+      "text": "9:30",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Allora, alle ",
+      "auto": true
+    }, {
+      "text": "17:30",
+      "auto": true
+    }, {
+      "text": " andrebbe bene?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ok, ",
+      "auto": true
+    }, {
+      "text": "provo",
+      "auto": true
+    }, {
+      "text": " con ",
+      "auto": true
+    }, {
+      "text": "le 16:00",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Facciamo per ",
+      "auto": true
+    }, {
+      "text": "le 11:00",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "E se venissi alle ",
+      "auto": true
+    }, {
+      "text": "15:00",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Prenotami per ",
+      "auto": true
+    }, {
+      "text": "le 12:00",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Alle ",
+      "auto": true
+    }, {
+      "text": "8:00",
+      "auto": true
+    }, {
+      "text": ", allora.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Va bene, che ne dici delle ",
+      "auto": true
+    }, {
+      "text": "10:00",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Va bene, ",
+      "auto": true
+    }, {
+      "text": "alle 5",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "alle 5",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "alle 10",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}
